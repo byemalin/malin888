@@ -7,7 +7,7 @@
 
 - ✍🏽 My first real project was [Terrain](https://byemalin.com/terrain)
 
-- 👨🏽‍💻 All of my projects are available at [byemalin.com](byemalin.com)
+- 👨🏽‍💻 All of my projects are available at [byemalin.com](https://byemalin.com)
 
 - ✉️ You can contact me at **malin@newschool.edu**
 
